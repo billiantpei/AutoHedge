@@ -21,3 +21,9 @@ https://zhuanlan.zhihu.com/p/693582342
 部署及启动：https://www.51cto.com/aigc/3738.html 推荐使用WebUI的方式使用，基本功能都有
 整体使用说明：https://zhuanlan.zhihu.com/p/695287607
 WebUI的使用及名词说明：https://blog.csdn.net/qq_20042935/article/details/150004941
+
+
+
+abtest：学习及实操
+
+模型：与算法团队对接，transformer模型；大模型产出黑灰产攻击prompt尝试
